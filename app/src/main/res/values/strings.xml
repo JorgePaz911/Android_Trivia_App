@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Trivia</string>
+    <string name="txt_title">Trivia</string>
+    <string name="txt_question_num">Question: 45/89</string>
+    <string name="btn_true">True</string>
+    <string name="btn_false">False</string>
+    <string name="btn_next">Next</string>
+    <string name="txt_placeholder_cardview">Text placeholder... Text placeholder... Text placeholder... Text placeholder... Text placeholder...</string>
+    <string name="btn_prev">Prev</string>
+    <string name="question">Question:</string>
+    <string name="txt_initial_score">Score: 0</string>
+    <string name="share_text">Share</string>
+</resources>

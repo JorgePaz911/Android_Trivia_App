@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="btn_margin">10dp</dimen>
+    <dimen name="btn_padding">6dp</dimen>
+    <dimen name="txt_cardview_padding">8dp</dimen>
+    <dimen name="button_elevation">8dp</dimen>
+</resources>
